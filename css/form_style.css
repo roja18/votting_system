@@ -1,0 +1,44 @@
+fieldset{
+	width: 30%;
+	padding: 1%;
+	margin: auto;
+	border: solid rgb(104, 37, 6);;
+	border-top-left-radius: 20%;
+	border-bottom-right-radius: 20%; 
+	padding-top: 3%;
+	padding-bottom: 3%;
+	background-color:  rgb(194, 80, 27);
+	color: darkblue;
+
+}
+input[type=text], input[type=number], select, input[type=date], input[type=password], input[type=submit] , input[type=reset], input[type=Emmail],textarea,select{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+  
+}
+
+input[type=submit] , input[type=reset]{
+	background-color:rgb(104, 37, 6);
+	font-size: 19px;
+	color: rgb(204, 186, 178);;
+}
+input[type=submit]:hover , input[type=reset]:hover{
+	background-color:rgb(194, 80, 27);
+	color: black
+}
+h4{
+	text-align: center;
+}
+.error{
+	background-color: yellow;
+	color: red;
+	padding: 10;
+	width: 100%;
+}
+option{
+	background-color: rgba(139, 16, 16, 0.212);
+}

@@ -1,0 +1,31 @@
+.tablez{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 25px;
+  }
+  
+  .tablez td, .tablez th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  
+}
+.tablez td{
+    background-color: rgb(199, 194, 189);
+}
+.tablez th{
+    background-color: sandybrown;
+}
+/* .linkmil a{
+    background-color: rgb(179, 103, 37);
+    padding: 12px 20px;
+    font-size: 23px;
+    text-decoration: none;
+    color: black; */
+}
+.error{
+    margin: 20px;
+    padding: 12px;
+    color:black;
+    background-color: rgb(140, 212, 140);
+}

@@ -1,0 +1,36 @@
+.jumbotron{
+    min-height: 20vh;
+    /* overflow: hidden; */
+    background-color:rgb(87, 57, 43);
+    color: sandybrown;
+    top: 0;
+}
+.linkz{
+min-height: 80vh;
+z-index: 1;
+top: 20vh;
+overflow-x: hidden; 
+background-color: rgb(194, 80, 27);
+}
+.hedd img{
+    width: 60%;
+    height: 15%;
+    margin: auto;
+    border-radius: 70%;
+    border: solid rgb(104, 37, 6);
+    margin-left: 10hv;
+} 
+.hedd a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    color:white;
+    display: block;
+  }
+  .hedd a:hover {
+      color: black;
+      background-color: rgb(104, 37, 6);
+  } 
+  .meme{
+      margin: auto;
+  }
